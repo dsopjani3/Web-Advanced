@@ -1,0 +1,18 @@
+p {
+    /*color: aqua;*/
+    color: rgb(255,0,0);
+    /*color: #FF0000;*/
+    font-size: 20px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: forestgreen;
+
+}
+
+body {
+    /*background-color: blue;*/
+    /*background-color: rgb(0,0,255);*/
+    background-color: #00FF00;
+    background: url("../images/univers.png");
+    background-size: cover;
+}

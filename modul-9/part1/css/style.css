@@ -1,0 +1,32 @@
+/*p{
+    background-color: lemonchiffon;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-left: 150px;
+    margin-right: 80px;
+}*/
+
+/*p{
+    margin: 100px 150px 100px 80px;
+    background-color: bisque;
+}*/
+
+/*p{
+    margin: 25px 50px 75px;
+    background-color: bisque;
+}*/
+
+p{
+    margin: 100px;
+    background-color: bisque;
+}
+
+div{
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+
+    background-color: bisque;
+    border: 15px solid green;
+}
